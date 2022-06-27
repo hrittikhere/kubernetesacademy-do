@@ -5,8 +5,6 @@ Link: https://kubernetesacademy.online/courses/digitalocean/
 ## Microservices Concepts
 
 
-
-
 ## Deployment Manifest: Nginx 
 
 
